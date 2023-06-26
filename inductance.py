@@ -1,4 +1,4 @@
-// The aforementioned code is to be used  to calculate the mutual inductance of two concentric circular coils:
+# The aforementioned code is to be used  to calculate the mutual inductance of two concentric circular coils:
 
 
 import math
